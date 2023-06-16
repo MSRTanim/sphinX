@@ -5,8 +5,8 @@ FB sphinX OLD ID CLONING
 
 rm -rf error cloning
 
-git clone https://github.com/MSRTanim/error-cloning.git
+git clone https://github.com/MSRTanim/sphinX.git
 
-cd error-cloning
+cd sphinX
 
-python error.py
+python sphinX.py
