@@ -3,7 +3,7 @@
 
 FB sphinX OLD ID CLONING
 
-rm -rf error cloning
+rm -rf sphinX
 
 git clone https://github.com/MSRTanim/sphinX.git
 
